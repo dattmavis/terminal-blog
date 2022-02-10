@@ -10,11 +10,9 @@ type = []
 name = "Matt Davis"
 
 +++
-# Testing
+Just out here testing my new Forestry.io setup.  
+Don't mind me.
 
-Just out here testing my new Forestry.io setup.   
-Don't mind me.   
-  
 ![](/uploads/_111434467_gettyimages-1143489763.jpg)
 
 **Reasons I love cats:**
