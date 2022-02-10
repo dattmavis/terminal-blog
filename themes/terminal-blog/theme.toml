@@ -1,0 +1,14 @@
+name = "terminal-blog"
+description = "A simple terminal based theme for Hugo."
+tags = ["blog", "clean", "customizable", "dark", "highlighting", "light", "minimal", "monochromatic", "multilingual", "personal", "responsive", "simple", "technical"]
+features = ["blog", "shortcode", "syntax highlighting"]
+
+
+[author]
+  name = "Matt Davis"
+  homepage = "https://mattdav.is"
+
+[original]
+  name = "hello-friend-ng"
+  homepage = "https://github.com/rhazdon/hugo-theme-hello-friend-ng/"
+  repo = "https://github.com/rhazdon/hugo-theme-hello-friend-ng/"
