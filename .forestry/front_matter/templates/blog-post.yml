@@ -30,3 +30,5 @@ fields:
   - type: text
     name: name
     label: name
+pages:
+- content/posts/test-post-please-ignore.md
