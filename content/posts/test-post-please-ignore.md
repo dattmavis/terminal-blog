@@ -2,7 +2,6 @@
 categories = []
 date = 2022-02-10T17:25:00Z
 description = "Testing Posting Functions with Forestry.io"
-draft = true
 series = []
 tags = ["please ignore", "test post"]
 title = "Test Post, Please Ignore"
