@@ -10,9 +10,7 @@ k=y._={s:[],t:[+new Date],c:{},l:a};
 /* Add configuration calls below this comment */
 olark.configure('system.hb_custom_style', {
     general: {
-      fonts: ['Roboto', 'mono'],
-      corners: '',
-      secondaryColor: ''
+      fonts: ['Roboto', 'mono']
     }
   });
 olark.identify('3634-649-10-3895');
