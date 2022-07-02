@@ -6,4 +6,3 @@ title = "Tools"
 name = "Matt Davis"
 
 +++
-{{< olark >}}
