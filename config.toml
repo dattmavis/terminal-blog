@@ -197,6 +197,11 @@ disableHugoGeneratorInject = false
     name       = "/projects"
     url        = "projects/"
 
+ [[menu.main]]
+    identifier = "photos"
+    name       = "/photos"
+    url        = "photos/"
+
   [[menu.main]]
     identifier = "tools"
     name = "/tools"
