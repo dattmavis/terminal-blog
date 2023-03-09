@@ -6,6 +6,6 @@ title = "Photos"
 name = "Matt Davis"
 
 +++
-currently building out image gallery for my photography  
-  
-`{{ partial "image-gallery" (dict "context" . "gallery_dir" "album") }}`
+currently building out image gallery for my photography
+
+{{ partial "image-gallery" (dict "context" . "gallery_dir" "album") }}
