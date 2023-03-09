@@ -6,5 +6,4 @@ title = "Photos"
 name = "Matt Davis"
 
 +++
-
 currently building out image gallery for my photography
