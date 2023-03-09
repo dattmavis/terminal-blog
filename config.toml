@@ -109,3 +109,7 @@ posts = "/posts/:year/:month/:title/"
 category = "categories"
 series = "series"
 tag = "tags"
+[markup]
+defaultMarkdownHandler = “goldmark”
+[markup.goldmark.renderer]
+unsafe = true
