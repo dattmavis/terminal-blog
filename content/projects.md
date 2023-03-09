@@ -1,7 +1,7 @@
 +++
 aliases = ["portfolio", "projects", "my work"]
 date = 2022-02-09T00:00:00Z
-title = "portfolio"
+title = "Portfolio"
 [author]
 name = "Matt Davis"
 
