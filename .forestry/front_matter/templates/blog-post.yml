@@ -31,5 +31,4 @@ fields:
     name: name
     label: name
 pages:
-- content/posts/test-post-please-ignore.md
 - content/posts/twitter-a-towering-skyscraper-of-technical-debt.md
