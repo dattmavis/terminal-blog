@@ -10,7 +10,9 @@ type = ["blog"]
 name = "Matt Davis"
 
 +++
-Imagine building a skyscraper with the goal of providing a safe and reliable place for visit. You put in the time and resources to ensure the structure is sound, the utilities are functioning, and the systems are running smoothly. But what happens when the materials you use have dependencies that are constantly changing and out of your control?
+Imagine building a skyscraper with the goal of providing a safe and reliable place for visit. You put in the time and resources to ensure the structure is sound, the utilities are functioning, and the systems are running smoothly. But what happens when the materials you use have dependencies that are constantly changing and out of your control?  
+  
+![](/uploads/mattchewdavis_blue_skyscraper_crumbling_d28bc674-3036-4fe7-9d69-4272ce976703.png)
 
 For example, the electric company regularly changes the type of outlets they support, or even the voltage going into your building on a fairly frequent basis. This means you have to constantly figure out which outlets need to be replaced, or determine if you need to build a custom module to intercept and convert the incoming voltage to an expected one so that you don't have to modify every single thing in your building that relies on electricity every time this happens.
 
