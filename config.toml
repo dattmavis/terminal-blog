@@ -109,4 +109,3 @@ posts = "/posts/:year/:month/:title/"
 category = "categories"
 series = "series"
 tag = "tags"
-
