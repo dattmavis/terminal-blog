@@ -8,5 +8,4 @@ name = "Matt Davis"
 +++
 currently building out image gallery for my photography
 
-{{< gallery dir="/img/album1/" />}}
-
+{{< image-gallery gallery_dir="album" >}}
